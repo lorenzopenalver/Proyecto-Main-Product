@@ -15,5 +15,8 @@
     background-image: url(./Imagenes/image-product-desktop.jpg);
     border-radius: 15px 0px 0px 15px;
 }
+.main-container .img:hover{
+    box-shadow: -4px 0px 9px 0px #e9e645;
+}
 
 }
